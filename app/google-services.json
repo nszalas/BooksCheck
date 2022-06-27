@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "389531730548",
+    "project_id": "bookscheck-b066d",
+    "storage_bucket": "bookscheck-b066d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389531730548:android:9ba44365cbc30e533cc721",
+        "android_client_info": {
+          "package_name": "com.nszalas.bookscheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389531730548-9a879s9pp6jeih5av5mv0u3546j7qe4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxtV2r_FiAozHp_JbxrxIC3uNdbepcivg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389531730548-9a879s9pp6jeih5av5mv0u3546j7qe4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

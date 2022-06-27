@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BooksCheck</string>
+    <string name="new_user_signup">New user? <b>Sign up!</b></string>
+</resources>
